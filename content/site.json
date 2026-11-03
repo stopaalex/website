@@ -1,0 +1,223 @@
+{
+  "profile": {
+    "name": "Alex Stopa",
+    "role": "Frontend engineer & technical lead",
+    "location": "Northern Virginia",
+    "email": "stopa.alex@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alex-stopa-1b080779/",
+    "github": "https://github.com/stopaalex",
+    "resume": "/AlexStopa_Resume.pdf"
+  },
+  "navigation": {
+    "work": "Work",
+    "approach": "Approach",
+    "about": "About",
+    "contact": "Let’s talk"
+  },
+  "hero": {
+    "eyebrow": "ENGINEERING × COMMUNICATION",
+    "line1": "Built with depth.",
+    "line2": "Made to feel",
+    "line3": "effortless.",
+    "intro": "I’m Alex — a frontend engineer and technical lead who turns complex systems into clear, intuitive experiences. With the backend capabilities to connect it all.",
+    "cta": "Explore my work",
+    "aside": "From enterprise complexity to the energy of race day.",
+    "scroll": "SCROLL TO EXPLORE",
+    "displayName": [
+      "Alex",
+      "Stopa."
+    ],
+    "overline": "CODE WITH INTENT. BUILD WITH FEELING.",
+    "scrollLabel": "SCROLL INTO MY WORLD",
+    "scrollDetail": "Selected work / 01—03",
+    "signature": "FRONTEND CRAFT.\nBACKEND CAPABILITIES.\nHUMAN CONNECTION."
+  },
+  "highlights": [
+    {
+      "value": "9+",
+      "label": "Years building software"
+    },
+    {
+      "value": "Frontend",
+      "label": "With backend capabilities"
+    },
+    {
+      "value": "Human first",
+      "label": "In code. In conversation."
+    }
+  ],
+  "workHeading": {
+    "eyebrow": "01 / SELECTED WORK",
+    "title": "Built for the real world.",
+    "description": "Fan experiences. Consumer products. Enterprise systems. A few places where thoughtful engineering makes a difference.",
+    "open": "Explore project",
+    "close": "Close project",
+    "sourceLabel": "Read Slytrunk’s case study",
+    "roleLabel": "MY CONTRIBUTION",
+    "challengeLabel": "THE CHALLENGE",
+    "approachLabel": "THE ENGINEERING",
+    "outcomeLabel": "WHY IT MATTERS",
+    "previewLabel": "CAPTURED WEBSITE VIEWS · HOVER OR FOCUS TO EXPLORE",
+    "liveLabel": "Visit live site",
+    "captureDate": "November 2026"
+  },
+  "projects": [
+    {
+      "id": "williams",
+      "title": "Williams F1 Team",
+      "category": "FAN ENGAGEMENT / WEB + MOBILE",
+      "summary": "Bringing fans closer to the grid.",
+      "image": "/images/williams.webp",
+      "imageAlt": "Screenshot captured directly from the live Williams F1 Team website",
+      "color": "#1528cb",
+      "tags": [
+        "React",
+        "React Native",
+        "TypeScript",
+        "Multi-tenant"
+      ],
+      "role": "Technical lead & frontend engineering, with the Slytrunk team.",
+      "challenge": "Build a connected fan experience across web, mobile, content, and the moments that matter on race weekend.",
+      "approach": "My work spans the multi-tenant platform’s architecture, frontend systems, and technical direction. I help engineers and stakeholders align around practical decisions, with a consistent fan identity across touchpoints.",
+      "outcome": "A shared platform that connects the fan experience while supporting the needs of different teams and leagues.",
+      "source": "https://www.slytrunk.com/work/williams/",
+      "previewImage": "/images/williams-preview.webp",
+      "liveUrl": "https://www.williamsf1.com/"
+    },
+    {
+      "id": "mlsj",
+      "title": "Major League Show Jumping",
+      "category": "SPORTS / SHARED PLATFORM",
+      "summary": "A digital home for a growing sport.",
+      "image": "/images/mlsj.webp",
+      "imageAlt": "Screenshot captured directly from the live Major League Show Jumping website",
+      "color": "#596c48",
+      "tags": [
+        "Platform architecture",
+        "Web",
+        "Mobile"
+      ],
+      "role": "Technical leadership on Slytrunk’s shared fan engagement platform, which serves MLSJ.",
+      "challenge": "Support a league’s digital experience without rebuilding every foundational capability from scratch.",
+      "approach": "I help architect shared web, native, content management, and backend services, balancing reusable foundations with tenant-specific requirements.",
+      "outcome": "A platform approach that supports consistent delivery and simpler onboarding as new clients join.",
+      "source": "https://www.slytrunk.com/work/mlsj/",
+      "previewImage": "/images/mlsj-preview.webp",
+      "liveUrl": "https://www.majorleagueshowjumping.com/"
+    },
+    {
+      "id": "trash-panda",
+      "title": "Trash Panda",
+      "category": "CONSUMER PRODUCT / MOBILE",
+      "summary": "Making food information easier to act on.",
+      "image": "/images/trash-panda.webp",
+      "imageAlt": "Screenshot captured directly from the live Trash Panda website",
+      "color": "#d6e3b0",
+      "tags": [
+        "React Native",
+        "Product development",
+        "Consumer UX"
+      ],
+      "role": "Contributing engineer at Slytrunk, delivering features across web and mobile.",
+      "challenge": "Help people make sense of food information through an approachable consumer product.",
+      "approach": "I contributed to feature delivery for the Trash Panda Food Scanner app, bringing frontend and backend capabilities to an early-stage product.",
+      "outcome": "A useful example of the work I enjoy: turning complicated information into something people can understand and use.",
+      "source": "https://www.slytrunk.com/labs/trash-panda/",
+      "previewImage": "/images/trash-panda-preview.webp",
+      "liveUrl": "https://www.trashpandaapp.com/"
+    }
+  ],
+  "approach": {
+    "eyebrow": "02 / THE WAY I WORK",
+    "title": "Deep in the technology.\nClear with the people.",
+    "intro": "The best technical solution only works if people understand why it’s the right one. I connect those two worlds.",
+    "technicalLabel": "THE TECHNICAL VERSION",
+    "humanLabel": "THE HUMAN VERSION",
+    "toggleLabel": "Translate the thinking",
+    "technical": "A multi-tenant, event-driven architecture with shared services and tenant-specific configuration.",
+    "human": "One strong foundation. A distinct experience for every client. Less rebuilding, more moving forward.",
+    "items": [
+      {
+        "number": "01",
+        "title": "Find the real problem.",
+        "body": "Ask better questions. Understand what the business needs and what people actually need to do."
+      },
+      {
+        "number": "02",
+        "title": "Make the tradeoffs clear.",
+        "body": "Explain the options, the constraints, and the consequences in language everyone can work with."
+      },
+      {
+        "number": "03",
+        "title": "Build it to hold up.",
+        "body": "Thoughtful architecture, fast interfaces, and maintainable systems. Then help the team carry it forward."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "03 / A LITTLE CONTEXT",
+    "title": "An engineer with a communicator’s instinct.",
+    "body": "My degree is in Communications. My career is in software. That combination shapes how I work: I care as much about a shared understanding as I do about a well-designed system.",
+    "second": "At Deloitte, that meant translating complex technical work for enterprise stakeholders. At Slytrunk, it means connecting product ambitions, engineering decisions, and the people building them.",
+    "skills": [
+      "TypeScript / JavaScript",
+      "React / React Native",
+      "Node.js / APIs",
+      "AWS / Serverless",
+      "System architecture",
+      "Technical leadership",
+      "Stakeholder communication",
+      "AI-assisted development"
+    ],
+    "resumeLabel": "View resume",
+    "history": [
+      {
+        "period": "2021 — PRESENT",
+        "company": "Slytrunk",
+        "role": "Software Engineer, Technical Lead",
+        "description": "Leading a team of 4–5 developers. Architecting web, mobile, CMS, and backend systems for a multi-tenant fan engagement platform."
+      },
+      {
+        "period": "2017 — 2021",
+        "company": "Deloitte",
+        "role": "Consultant → Senior Consultant",
+        "description": "Leading delivery of enterprise applications, serverless systems, fraud dashboards, and tools that turn complex data into useful decisions."
+      },
+      {
+        "period": "2014 — 2017",
+        "company": "FPSA",
+        "role": "Marketing Associate",
+        "description": "Building and maintaining websites while creating content across newsletters, social, and email. Where technology and communication first came together."
+      }
+    ]
+  },
+  "experiment": {
+    "eyebrow": "A NOTE ON THIS SITE",
+    "title": "Built with curiosity.\nAnd a little artificial intelligence.",
+    "body": "This site is an ongoing experiment in AI-assisted building: exploring what AI can do well, where it falls short, and where human judgment still makes the difference. The goal is to learn in public — and build something worth using.",
+    "badge": "EXPERIMENT IN PROGRESS"
+  },
+  "contact": {
+    "eyebrow": "HAVE A COMPLEX PROBLEM?",
+    "title": "Let’s make\nit make sense.",
+    "cta": "Start a conversation",
+    "footer": "Thoughtful software. Clearly communicated.",
+    "back": "Back to top"
+  },
+  "theme": {
+    "accent": "#9b624e",
+    "background": "#f2ecdf",
+    "foreground": "#302b26",
+    "surface": "#e6ddce",
+    "dark": "#302b26",
+    "onDark": "#f2ecdf",
+    "heroBackground": "#342e29",
+    "heroGlow": "#b7956a",
+    "heroEnd": "#675440",
+    "heroText": "#f2ecdf",
+    "heroMuted": "#d6c6ad",
+    "heroAccent": "#dfc7a6",
+    "workBackground": "#c7b599",
+    "contactBackground": "#a7866b"
+  }
+}
