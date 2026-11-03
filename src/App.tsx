@@ -2,7 +2,7 @@ import EnterpriseWork from './components/EnterpriseWork';
 import WorkShowcase from './components/WorkShowcase';
 import Hero from './components/Hero';
 import { lazy, Suspense, useEffect, useState, type CSSProperties } from 'react';
-import content from '../content/site.json';
+import content from './content';
 const ProjectDialog = lazy(() => import('./components/ProjectDialog'));
 const Arrow = () => <span aria-hidden="true">↗</span>;
 export default function App() {

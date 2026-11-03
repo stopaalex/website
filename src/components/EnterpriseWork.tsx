@@ -1,2 +1,2 @@
-import content from '../../content/site.json';
+import content from '../content';
 export default function EnterpriseWork(){const work=content.enterprise;return <section id="enterprise" className="enterprise-work section-pad"><div className="enterprise-heading"><div><p className="eyebrow">{work.eyebrow}</p><h2 className="preserve-lines">{work.title}</h2></div><div><p>{work.intro}</p><span>{work.note}</span></div></div><div className="enterprise-projects">{work.projects.map((project,index)=><article key={project.title}><span className="enterprise-index" aria-hidden="true">0{index+1}</span><h3>{project.title}</h3><p>{project.description}</p><div>{project.focus}</div></article>)}</div></section>}

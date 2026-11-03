@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import content from '../../content/site.json';
+import content from '../content';
 type Project = typeof content.projects[number];
 export default function ProjectDialog({ project, close }: { project: Project | null; close: () => void }) {
   const ref = useRef<HTMLDialogElement>(null);

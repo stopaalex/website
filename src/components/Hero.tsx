@@ -1,5 +1,5 @@
 import {useEffect,useRef} from 'react';
-import content from '../../content/site.json';
+import content from '../content';
 export default function Hero(){
  const ref=useRef<HTMLElement>(null);
  useEffect(()=>{

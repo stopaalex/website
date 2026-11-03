@@ -9,17 +9,19 @@ Open `alex-stopa.code-workspace` in VS Code.
 
 ## Local content studio
 
-Run `npm run studio` in a second terminal. Open http://127.0.0.1:5174.
+Run `npm run edit` to start the website and editor together. Open http://127.0.0.1:5174. Existing running servers are reused. Stop newly started servers with Ctrl+C.
 Edit copy, projects, experience, links, and theme colors in the form. Save writes `content/site.json` atomically; Vite updates the preview. Lists support adding/removing entries; advanced JSON editing is available. New projects need unique IDs. Add images to `public/images`, then set `/images/filename.webp` in the editor.
 
-Review `git diff`, commit changes, and `git push`. The editor never runs Git commands. It binds only to loopback, validates content, and requires a session token and matching origin for writes. It is excluded from the production bundle.
+Review changes in the editor, then commit and push when ready to publish. The editor only reads Git status and diffs; it never commits or pushes. It binds only to loopback, validates content, and requires a session token and matching origin for writes. It is excluded from the production bundle. Images can be uploaded directly in the form.
+
+GitHub Pages is the intended static host. It cannot persist web-admin edits by itself. This setup deliberately uses local files and Git rather than adding a database, authentication service, or hosted CMS. Saving previews changes locally; publishing still requires a commit and push. A deployed admin that saves without commits would require external storage and authentication.
 
 All editorial content and theme colors live in `content/site.json`. Layout: `src/App.tsx`. Dialog: `src/components/ProjectDialog.tsx`. Styles: `src/styles/global.css`. Palette values become CSS custom properties. Check contrast after changing colors. Short interface labels remain in the components.
 
 ## Verify and deploy
 
 Run `npm run check` and `npm run build`. Preview production with `npm run preview`.
-Deploy `dist/` to a static host such as Vercel, Netlify, or Cloudflare Pages. Build command: `npm run build`. No runtime server, secrets, CMS, or database required. Git push updates source; connect a host separately for automatic deployment.
+GitHub Pages deployment is configured in `.github/workflows/deploy.yml`. In the repository, open Settings → Pages and select GitHub Actions as the source. Push to `main` (or run the Deploy portfolio to GitHub Pages workflow manually). The workflow checks, builds, and publishes `dist/`. Expected URL: https://stopaalex.github.io/website/. Asset paths automatically follow the Pages base path, including a custom domain if configured later. No additional hosting service, database, or application secrets are required.
 
 ## Performance and accessibility
 

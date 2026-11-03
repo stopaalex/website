@@ -1,6 +1,6 @@
 import ProjectMedia from './ProjectMedia';
 import {useEffect,useRef,useState} from 'react';
-import content from '../../content/site.json';
+import content from '../content';
 type Project=typeof content.projects[number];
 export default function WorkShowcase({open}:{open:(project:Project)=>void}){
  const [active,setActive]=useState(0);const section=useRef<HTMLElement>(null);const stage=useRef<HTMLDivElement>(null);

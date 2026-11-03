@@ -125,23 +125,36 @@
     {
       "id": "healthline",
       "title": "Healthline",
-      "category": "CONSUMER WEB / EDITORIAL AT SCALE",
-      "summary": "A high-traffic consumer publishing platform that makes health information accessible to a broad audience.",
-      "image": "/images/healthline-content-grid.webp",
-      "imageAlt": "Healthline interior nutrition content grid, captured directly from the live website",
+      "category": "CONSUMER WEB / ADS & MARKETING",
+      "summary": "Advertising, marketing pages, and inline prompts that connect Healthline readers with relevant campaigns and resources.",
+      "image": "/images/healthline-inline-marketing.png",
+      "imageAlt": "Healthline article showing an inline newsletter signup and resource promotion, supplied by Alex",
       "color": "#6b9693",
       "tags": [
         "Frontend engineering",
-        "Consumer web"
+        "Advertising",
+        "Marketing pages"
       ],
-      "role": "Contributing engineer at Slytrunk, delivering features within Healthline’s existing web platform.",
-      "challenge": "Deliver features within a large, high-traffic consumer platform, where the interface needs to make complex information approachable.",
-      "approach": "My work included feature delivery on Healthline.com as part of the Slytrunk team. It brought my engineering experience into a consumer platform with substantial existing scale and complexity.",
-      "outcome": "Experience working within a high-traffic product, alongside the smaller teams and early-stage products that also shape my approach.",
+      "role": "Contributing engineer at Slytrunk, working on Healthline ads, marketing pages, and inline promotional experiences.",
+      "challenge": "Support advertising and internal marketing initiatives within the reading experience of a high-traffic publishing platform.",
+      "approach": "My frontend work included ads, marketing pages, and inline prompts that promote internal initiatives, such as newsletters and downloadable resources.",
+      "outcome": "Delivered reader-facing advertising and marketing experiences within Healthline’s established web platform.",
       "source": "https://www.healthline.com/",
-      "previewImage": "/images/healthline-content-grid.webp",
+      "previewImage": "/images/healthline-inline-marketing.png",
       "liveUrl": "https://www.healthline.com/nutrition",
       "media": [
+        {
+          "label": "Inline marketing",
+          "kind": "web",
+          "image": "/images/healthline-inline-marketing.png",
+          "status": "captured"
+        },
+        {
+          "label": "In-article ads",
+          "kind": "web",
+          "image": "/images/healthline-inline-advertising.png",
+          "status": "captured"
+        },
         {
           "label": "Content discovery",
           "kind": "web",
@@ -149,13 +162,13 @@
           "status": "captured"
         },
         {
-          "label": "Topic navigation",
+          "label": "Program page",
           "kind": "web",
-          "image": "/images/healthline-topic-navigation.webp",
+          "image": "/images/healthline-ad-supported-program.png",
           "status": "captured"
         }
       ],
-      "mediaNote": "Editorial discovery and topic navigation within Healthline Nutrition."
+      "mediaNote": "Inline newsletter and resource prompts support internal marketing initiatives. In-article ad placements and marketing pages show the broader work."
     },
     {
       "id": "trash-panda",
