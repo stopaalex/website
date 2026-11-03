@@ -20,6 +20,8 @@ All editorial content and theme colors live in `content/site.json`. Layout: `src
 
 ## Verify and deploy
 
+Use `develop` for everyday changes and as the repository default branch. Merge reviewed changes into `main` to publish. Only `main` can run the Pages deployment, including manual runs. After both branches are pushed, set the GitHub default branch with `gh repo edit stopaalex/website --default-branch develop`.
+
 Run `npm run check` and `npm run build`. Preview production with `npm run preview`.
 GitHub Pages deployment is configured in `.github/workflows/deploy.yml`. In the repository, open Settings → Pages and select GitHub Actions as the source. Push to `main` (or run the Deploy portfolio to GitHub Pages workflow manually). The workflow checks, builds, and publishes `dist/`. Expected URL: https://stopaalex.github.io/website/. Asset paths automatically follow the Pages base path, including a custom domain if configured later. No additional hosting service, database, or application secrets are required.
 
