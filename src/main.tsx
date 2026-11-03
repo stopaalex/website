@@ -5,4 +5,5 @@ import './styles/global.css';
 import './styles/experience.css';
 import './styles/product-media.css';
 import './styles/identity-hero.css';
+import './styles/work-navigation.css';
 createRoot(document.getElementById('root')!).render(<React.StrictMode><App /></React.StrictMode>);

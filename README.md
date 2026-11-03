@@ -43,3 +43,6 @@ To replace app placeholders: put a portrait screenshot in public/images, set the
 
 Williams lead visual: Alex-supplied Williams ID screenshot (November 2026), replacing the prior Predictions captures. The full card and loyalty progress are preserved in the project preview.
 
+
+Project navigation uses measured sticky-panel height and requestAnimationFrame-batched native scroll progress. The counter and named project buttons stay visible; scrolling forward/backward selects the corresponding project. Buttons navigate to the exact project position, and Skip projects exits to the approach section. No wheel or touch events are intercepted.
+

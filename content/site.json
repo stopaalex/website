@@ -19,7 +19,7 @@
     "line1": "Built with depth.",
     "line2": "Made to feel",
     "line3": "effortless.",
-    "intro": "I’m Alex — a frontend engineer and technical lead who turns complex systems into clear, intuitive experiences. With the backend capabilities to connect it all.",
+    "intro": "I’m Alex, a frontend engineer and technical lead. I build intuitive interfaces, connect the systems behind them, and make technical decisions clear to the people involved.",
     "cta": "Explore my work",
     "aside": "From enterprise complexity to the energy of race day.",
     "scroll": "SCROLL TO EXPLORE",
@@ -28,8 +28,8 @@
       "Stopa."
     ],
     "overline": "CODE WITH INTENT. BUILD WITH FEELING.",
-    "scrollLabel": "SCROLL INTO MY WORLD",
-    "scrollDetail": "Selected work / 01—03",
+    "scrollLabel": "Explore my work",
+    "scrollDetail": "3 selected projects",
     "signature": "FRONTEND CRAFT.\nBACKEND CAPABILITIES.\nHUMAN CONNECTION.",
     "headline": [
       "Complex things.",
@@ -47,33 +47,37 @@
       "label": "With backend capabilities"
     },
     {
-      "value": "Human first",
-      "label": "In code. In conversation."
+      "value": "Technical lead",
+      "label": "4–5 engineers at Slytrunk"
     }
   ],
   "workHeading": {
     "eyebrow": "01 / SELECTED WORK",
-    "title": "Built for the real world.",
+    "title": "Selected work",
     "description": "Fan experiences. Consumer products. Enterprise systems. A few places where thoughtful engineering makes a difference.",
-    "open": "Explore project",
+    "open": "Project details",
     "close": "Close project",
-    "sourceLabel": "Read Slytrunk’s case study",
-    "roleLabel": "MY CONTRIBUTION",
+    "sourceLabel": "Project background",
+    "roleLabel": "My contribution",
     "challengeLabel": "THE CHALLENGE",
     "approachLabel": "THE ENGINEERING",
     "outcomeLabel": "WHY IT MATTERS",
     "previewLabel": "PRODUCT VIEWS / SELECT A SCREEN",
     "liveLabel": "Explore product",
     "captureDate": "November 2026",
-    "pendingLabel": "APP SCREENSHOT COMING SOON",
-    "placeholderNote": "Space reserved for Alex’s own app captures."
+    "pendingLabel": "Screenshot coming soon",
+    "placeholderNote": "App capture to be added.",
+    "scrollHint": "Scroll to change projects",
+    "nextLabel": "Up next",
+    "exitHint": "Keep scrolling to see how I work ↓",
+    "skipLabel": "Skip projects"
   },
   "projects": [
     {
       "id": "williams",
       "title": "Williams F1 Team",
       "category": "FAN ENGAGEMENT / WEB + MOBILE",
-      "summary": "Bringing fans closer to the grid.",
+      "summary": "A connected fan platform across web and mobile, with personalized Williams IDs, loyalty, and race-day experiences.",
       "image": "/images/williams-id.webp",
       "imageAlt": "Alex Stopa Williams ID fan card with customized helmet and loyalty progress, screenshot provided by Alex",
       "color": "#1528cb",
@@ -83,7 +87,7 @@
         "TypeScript",
         "Multi-tenant"
       ],
-      "role": "Technical lead & frontend engineering, with the Slytrunk team.",
+      "role": "Technical lead at Slytrunk: frontend architecture, shared platform systems, and technical direction for a team of 4–5 engineers.",
       "challenge": "Build a connected fan experience across web, mobile, content, and the moments that matter on race weekend.",
       "approach": "My work spans the multi-tenant platform’s architecture, frontend systems, and technical direction. I help engineers and stakeholders align around practical decisions, with a consistent fan identity across touchpoints.",
       "outcome": "A shared platform that connects the fan experience while supporting the needs of different teams and leagues.",
@@ -116,16 +120,15 @@
       "id": "healthline",
       "title": "Healthline",
       "category": "CONSUMER WEB / EDITORIAL AT SCALE",
-      "summary": "Frontend work where clarity has real weight.",
+      "summary": "A high-traffic consumer publishing platform that makes health information accessible to a broad audience.",
       "image": "/images/healthline-article.webp",
       "imageAlt": "Current Healthline article interface, captured directly from an interior article page",
       "color": "#6b9693",
       "tags": [
         "Frontend engineering",
-        "Consumer web",
-        "Feature delivery"
+        "Consumer web"
       ],
-      "role": "Contributing software engineer at Slytrunk, delivering features for Healthline.com.",
+      "role": "Contributing engineer at Slytrunk, delivering features within Healthline’s existing web platform.",
       "challenge": "Deliver features within a large, high-traffic consumer platform, where the interface needs to make complex information approachable.",
       "approach": "My work included feature delivery on Healthline.com as part of the Slytrunk team. It brought my engineering experience into a consumer platform with substantial existing scale and complexity.",
       "outcome": "Experience working within a high-traffic product, alongside the smaller teams and early-stage products that also shape my approach.",
@@ -152,7 +155,7 @@
       "id": "trash-panda",
       "title": "Trash Panda",
       "category": "CONSUMER PRODUCT / MOBILE",
-      "summary": "Making food information easier to act on.",
+      "summary": "A mobile food scanner that helps people understand ingredients and find alternatives while shopping.",
       "image": "/images/app-placeholder.svg",
       "imageAlt": "App screenshots pending: scan results, ingredient details, swaps and shopping lists",
       "color": "#d6e3b0",
@@ -161,7 +164,7 @@
         "Product development",
         "Consumer UX"
       ],
-      "role": "Contributing engineer at Slytrunk, delivering features across web and mobile.",
+      "role": "Contributing engineer at Slytrunk, delivering app features with frontend and backend capabilities.",
       "challenge": "Help people make sense of food information through an approachable consumer product.",
       "approach": "I contributed to feature delivery for the Trash Panda Food Scanner app, bringing frontend and backend capabilities to an early-stage product.",
       "outcome": "A useful example of the work I enjoy: turning complicated information into something people can understand and use.",
@@ -192,7 +195,7 @@
     }
   ],
   "approach": {
-    "eyebrow": "02 / THE WAY I WORK",
+    "eyebrow": "How I work",
     "title": "Deep in the technology.\nClear with the people.",
     "intro": "The best technical solution only works if people understand why it’s the right one. I connect those two worlds.",
     "technicalLabel": "THE TECHNICAL VERSION",
@@ -219,7 +222,7 @@
     ]
   },
   "about": {
-    "eyebrow": "03 / A LITTLE CONTEXT",
+    "eyebrow": "About",
     "title": "An engineer with a communicator’s instinct.",
     "body": "My degree is in Communications. My career is in software. That combination shapes how I work: I care as much about a shared understanding as I do about a well-designed system.",
     "second": "At Deloitte, that meant translating complex technical work for enterprise stakeholders. At Slytrunk, it means connecting product ambitions, engineering decisions, and the people building them.",
@@ -257,8 +260,8 @@
   },
   "experiment": {
     "eyebrow": "A NOTE ON THIS SITE",
-    "title": "Built with curiosity.\nAnd a little artificial intelligence.",
-    "body": "This site is an ongoing experiment in AI-assisted building: exploring what AI can do well, where it falls short, and where human judgment still makes the difference. The goal is to learn in public — and build something worth using.",
+    "title": "An experiment in AI-assisted building.",
+    "body": "I’m using this site to explore where AI helps, where it falls short, and where human judgment makes the difference.",
     "badge": "EXPERIMENT IN PROGRESS"
   },
   "contact": {
