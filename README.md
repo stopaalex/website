@@ -1,5 +1,7 @@
 # Alex Stopa — personal portfolio
 
+[View the live website on GitHub Pages](https://stopaalex.github.io/website/)
+
 React + TypeScript + Vite. Requires Node 22.12+.
 
 ## Develop
