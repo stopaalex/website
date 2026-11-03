@@ -46,3 +46,6 @@ Williams lead visual: Alex-supplied Williams ID screenshot (November 2026), repl
 
 Project navigation uses measured sticky-panel height and requestAnimationFrame-batched native scroll progress. The counter and named project buttons stay visible; scrolling forward/backward selects the corresponding project. Buttons navigate to the exact project position, and Skip projects exits to the approach section. No wheel or touch events are intercepted.
 
+
+Trash Panda app images were supplied by Alex. Only personal Dynamic Island activity icons were redacted; the app UI is unchanged. Cleaned originals are available separately as PNGs, and site copies are lossless WebP. Views: Discover, Ingredients, Shopping lists.
+

@@ -156,8 +156,8 @@
       "title": "Trash Panda",
       "category": "CONSUMER PRODUCT / MOBILE",
       "summary": "A mobile food scanner that helps people understand ingredients and find alternatives while shopping.",
-      "image": "/images/app-placeholder.svg",
-      "imageAlt": "App screenshots pending: scan results, ingredient details, swaps and shopping lists",
+      "image": "/images/trash-panda-ingredients.webp",
+      "imageAlt": "Trash Panda app ingredient detail screen, provided by Alex with Dynamic Island activity redacted",
       "color": "#d6e3b0",
       "tags": [
         "React Native",
@@ -169,29 +169,29 @@
       "approach": "I contributed to feature delivery for the Trash Panda Food Scanner app, bringing frontend and backend capabilities to an early-stage product.",
       "outcome": "A useful example of the work I enjoy: turning complicated information into something people can understand and use.",
       "source": "https://www.slytrunk.com/labs/trash-panda/",
-      "previewImage": "/images/app-placeholder.svg",
+      "previewImage": "/images/trash-panda-ingredients.webp",
       "liveUrl": "https://apps.apple.com/us/app/trash-panda-food-scanner/id1539759995",
       "media": [
         {
-          "label": "Scan results",
+          "label": "Discover",
           "kind": "app",
-          "image": "pending",
-          "status": "pending"
+          "image": "/images/trash-panda-discover.webp",
+          "status": "captured"
         },
         {
-          "label": "Ingredient details",
+          "label": "Ingredients",
           "kind": "app",
-          "image": "pending",
-          "status": "pending"
+          "image": "/images/trash-panda-ingredients.webp",
+          "status": "captured"
         },
         {
-          "label": "Swaps & shopping lists",
+          "label": "Shopping lists",
           "kind": "app",
-          "image": "pending",
-          "status": "pending"
+          "image": "/images/trash-panda-shopping-lists.webp",
+          "status": "captured"
         }
       ],
-      "mediaNote": "Native app: scanning, ingredient information, and shopping."
+      "mediaNote": "Discover products, understand ingredients, and build shopping lists."
     }
   ],
   "approach": {
