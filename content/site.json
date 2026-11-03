@@ -272,19 +272,20 @@
     "back": "Back to top"
   },
   "theme": {
-    "accent": "#9b624e",
-    "background": "#f2ecdf",
-    "foreground": "#302b26",
-    "surface": "#e6ddce",
-    "dark": "#302b26",
-    "onDark": "#f2ecdf",
-    "heroBackground": "#342e29",
-    "heroGlow": "#b7956a",
-    "heroEnd": "#675440",
-    "heroText": "#f2ecdf",
-    "heroMuted": "#d6c6ad",
-    "heroAccent": "#dfc7a6",
-    "workBackground": "#c7b599",
-    "contactBackground": "#a7866b"
+    "accent": "#62784f",
+    "background": "#f1efe3",
+    "foreground": "#24352b",
+    "surface": "#e0e3d0",
+    "dark": "#192e25",
+    "onDark": "#f1efe3",
+    "heroBackground": "#14291f",
+    "heroGlow": "#8b9d62",
+    "heroEnd": "#344538",
+    "heroText": "#f1efe3",
+    "heroMuted": "#c3c9ae",
+    "heroAccent": "#c8d39e",
+    "workBackground": "#d0d5bb",
+    "contactBackground": "#b3bf95",
+    "bronze": "#ad906a"
   }
 }
