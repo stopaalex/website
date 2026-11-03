@@ -36,5 +36,7 @@ Resume supplied by Alex and copied unchanged to `public/AlexStopa_Resume.pdf`. P
 
 Client work is credited to Slytrunk. No sole authorship, unverified metrics, or testimonials claimed. Images belong to their respective owners.
 
-All portfolio copy is original, based on Alex's supplied facts. No Slytrunk image assets are included. Screenshots were captured directly from williamsf1.com, majorleagueshowjumping.com, and trashpandaapp.com in November 2026. Moving previews combine two captured website views; they are not embedded live applications. The hero uses local captures, pointer depth, and CSS animation. The pinned work sequence changes projects via IntersectionObserver. Reduced-motion preferences disable animation.
+All portfolio copy is original and grounded in Alex's supplied facts. Featured projects are Williams (web and native app), Healthline (consumer web), and Trash Panda (native app only). Media captures show Williams Pit Wall Predictions and its help state, plus an interior Healthline article and reading view. Current captures illustrate the product context and do not imply Alex authored every displayed feature. App media slots are explicitly pending Alex's own screenshots; they are never substituted with marketing website captures.
+
+To replace app placeholders: put a portrait screenshot in public/images, set the matching project's media entry image to /images/filename.webp, and change status from pending to captured. The local studio exposes those fields. Use original app captures, ideally without notifications or personal account information. Media states are selectable and transition within the project showcase.
 

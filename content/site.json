@@ -57,9 +57,11 @@
     "challengeLabel": "THE CHALLENGE",
     "approachLabel": "THE ENGINEERING",
     "outcomeLabel": "WHY IT MATTERS",
-    "previewLabel": "CAPTURED WEBSITE VIEWS · HOVER OR FOCUS TO EXPLORE",
-    "liveLabel": "Visit live site",
-    "captureDate": "November 2026"
+    "previewLabel": "PRODUCT VIEWS / SELECT A SCREEN",
+    "liveLabel": "Explore product",
+    "captureDate": "November 2026",
+    "pendingLabel": "APP SCREENSHOT COMING SOON",
+    "placeholderNote": "Space reserved for Alex’s own app captures."
   },
   "projects": [
     {
@@ -67,8 +69,8 @@
       "title": "Williams F1 Team",
       "category": "FAN ENGAGEMENT / WEB + MOBILE",
       "summary": "Bringing fans closer to the grid.",
-      "image": "/images/williams.webp",
-      "imageAlt": "Screenshot captured directly from the live Williams F1 Team website",
+      "image": "/images/williams-predictions.webp",
+      "imageAlt": "Williams Pit Wall Predictions interior feature screen",
       "color": "#1528cb",
       "tags": [
         "React",
@@ -81,37 +83,79 @@
       "approach": "My work spans the multi-tenant platform’s architecture, frontend systems, and technical direction. I help engineers and stakeholders align around practical decisions, with a consistent fan identity across touchpoints.",
       "outcome": "A shared platform that connects the fan experience while supporting the needs of different teams and leagues.",
       "source": "https://www.slytrunk.com/work/williams/",
-      "previewImage": "/images/williams-preview.webp",
-      "liveUrl": "https://www.williamsf1.com/"
+      "previewImage": "/images/williams-predictions.webp",
+      "liveUrl": "https://www.williamsf1.com/",
+      "media": [
+        {
+          "label": "Fan predictions · Web",
+          "kind": "web",
+          "image": "/images/williams-predictions.webp",
+          "status": "captured"
+        },
+        {
+          "label": "How to play · Web",
+          "kind": "web",
+          "image": "/images/williams-how-to-play.webp",
+          "status": "captured"
+        },
+        {
+          "label": "Race day · App",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
+        },
+        {
+          "label": "Fan identity · App",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
+        }
+      ],
+      "mediaNote": "Fan experiences across web and native apps."
     },
     {
-      "id": "mlsj",
-      "title": "Major League Show Jumping",
-      "category": "SPORTS / SHARED PLATFORM",
-      "summary": "A digital home for a growing sport.",
-      "image": "/images/mlsj.webp",
-      "imageAlt": "Screenshot captured directly from the live Major League Show Jumping website",
-      "color": "#596c48",
+      "id": "healthline",
+      "title": "Healthline",
+      "category": "CONSUMER WEB / EDITORIAL AT SCALE",
+      "summary": "Frontend work where clarity has real weight.",
+      "image": "/images/healthline-article.webp",
+      "imageAlt": "Current Healthline article interface, captured directly from an interior article page",
+      "color": "#6b9693",
       "tags": [
-        "Platform architecture",
-        "Web",
-        "Mobile"
+        "Frontend engineering",
+        "Consumer web",
+        "Feature delivery"
       ],
-      "role": "Technical leadership on Slytrunk’s shared fan engagement platform, which serves MLSJ.",
-      "challenge": "Support a league’s digital experience without rebuilding every foundational capability from scratch.",
-      "approach": "I help architect shared web, native, content management, and backend services, balancing reusable foundations with tenant-specific requirements.",
-      "outcome": "A platform approach that supports consistent delivery and simpler onboarding as new clients join.",
-      "source": "https://www.slytrunk.com/work/mlsj/",
-      "previewImage": "/images/mlsj-preview.webp",
-      "liveUrl": "https://www.majorleagueshowjumping.com/"
+      "role": "Contributing software engineer at Slytrunk, delivering features for Healthline.com.",
+      "challenge": "Deliver features within a large, high-traffic consumer platform, where the interface needs to make complex information approachable.",
+      "approach": "My work included feature delivery on Healthline.com as part of the Slytrunk team. It brought my engineering experience into a consumer platform with substantial existing scale and complexity.",
+      "outcome": "Experience working within a high-traffic product, alongside the smaller teams and early-stage products that also shape my approach.",
+      "source": "https://www.healthline.com/",
+      "previewImage": "/images/healthline-article.webp",
+      "liveUrl": "https://www.healthline.com/health-news/walking-speed-daily-steps-may-predict-death-risk",
+      "media": [
+        {
+          "label": "Article experience",
+          "kind": "web",
+          "image": "/images/healthline-article.webp",
+          "status": "captured"
+        },
+        {
+          "label": "Reading experience",
+          "kind": "web",
+          "image": "/images/healthline-reading.webp",
+          "status": "captured"
+        }
+      ],
+      "mediaNote": "Current article layout and reading experience."
     },
     {
       "id": "trash-panda",
       "title": "Trash Panda",
       "category": "CONSUMER PRODUCT / MOBILE",
       "summary": "Making food information easier to act on.",
-      "image": "/images/trash-panda.webp",
-      "imageAlt": "Screenshot captured directly from the live Trash Panda website",
+      "image": "/images/app-placeholder.svg",
+      "imageAlt": "App screenshots pending: scan results, ingredient details, swaps and shopping lists",
       "color": "#d6e3b0",
       "tags": [
         "React Native",
@@ -123,8 +167,29 @@
       "approach": "I contributed to feature delivery for the Trash Panda Food Scanner app, bringing frontend and backend capabilities to an early-stage product.",
       "outcome": "A useful example of the work I enjoy: turning complicated information into something people can understand and use.",
       "source": "https://www.slytrunk.com/labs/trash-panda/",
-      "previewImage": "/images/trash-panda-preview.webp",
-      "liveUrl": "https://www.trashpandaapp.com/"
+      "previewImage": "/images/app-placeholder.svg",
+      "liveUrl": "https://apps.apple.com/us/app/trash-panda-food-scanner/id1539759995",
+      "media": [
+        {
+          "label": "Scan results",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
+        },
+        {
+          "label": "Ingredient details",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
+        },
+        {
+          "label": "Swaps & shopping lists",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
+        }
+      ],
+      "mediaNote": "Native app: scanning, ingredient information, and shopping."
     }
   ],
   "approach": {
