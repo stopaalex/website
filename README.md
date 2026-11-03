@@ -40,3 +40,6 @@ All portfolio copy is original and grounded in Alex's supplied facts. Featured p
 
 To replace app placeholders: put a portrait screenshot in public/images, set the matching project's media entry image to /images/filename.webp, and change status from pending to captured. The local studio exposes those fields. Use original app captures, ideally without notifications or personal account information. Media states are selectable and transition within the project showcase.
 
+
+Williams lead visual: Alex-supplied Williams ID screenshot (November 2026), replacing the prior Predictions captures. The full card and loyalty progress are preserved in the project preview.
+

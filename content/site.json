@@ -69,8 +69,8 @@
       "title": "Williams F1 Team",
       "category": "FAN ENGAGEMENT / WEB + MOBILE",
       "summary": "Bringing fans closer to the grid.",
-      "image": "/images/williams-predictions.webp",
-      "imageAlt": "Williams Pit Wall Predictions interior feature screen",
+      "image": "/images/williams-id.webp",
+      "imageAlt": "Alex Stopa Williams ID fan card with customized helmet and loyalty progress, screenshot provided by Alex",
       "color": "#1528cb",
       "tags": [
         "React",
@@ -83,35 +83,29 @@
       "approach": "My work spans the multi-tenant platform’s architecture, frontend systems, and technical direction. I help engineers and stakeholders align around practical decisions, with a consistent fan identity across touchpoints.",
       "outcome": "A shared platform that connects the fan experience while supporting the needs of different teams and leagues.",
       "source": "https://www.slytrunk.com/work/williams/",
-      "previewImage": "/images/williams-predictions.webp",
+      "previewImage": "/images/williams-id.webp",
       "liveUrl": "https://www.williamsf1.com/",
       "media": [
         {
-          "label": "Fan predictions · Web",
+          "label": "Fan identity · Web",
           "kind": "web",
-          "image": "/images/williams-predictions.webp",
+          "image": "/images/williams-id.webp",
           "status": "captured"
-        },
-        {
-          "label": "How to play · Web",
-          "kind": "web",
-          "image": "/images/williams-how-to-play.webp",
-          "status": "captured"
-        },
-        {
-          "label": "Race day · App",
-          "kind": "app",
-          "image": "pending",
-          "status": "pending"
         },
         {
           "label": "Fan identity · App",
           "kind": "app",
           "image": "pending",
           "status": "pending"
+        },
+        {
+          "label": "Race day · App",
+          "kind": "app",
+          "image": "pending",
+          "status": "pending"
         }
       ],
-      "mediaNote": "Fan experiences across web and native apps."
+      "mediaNote": "Williams ID: fan identity, customization, and loyalty."
     },
     {
       "id": "healthline",
