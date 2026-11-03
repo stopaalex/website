@@ -96,25 +96,31 @@
       "liveUrl": "https://www.williamsf1.com/",
       "media": [
         {
+          "label": "Fan identity · Mobile",
+          "kind": "app",
+          "image": "/images/williams-mobile-fan-identity.webp",
+          "status": "captured"
+        },
+        {
+          "label": "Live feed · Mobile",
+          "kind": "app",
+          "image": "/images/williams-mobile-live-feed.webp",
+          "status": "captured"
+        },
+        {
+          "label": "Race results · Mobile",
+          "kind": "app",
+          "image": "/images/williams-mobile-race-results.webp",
+          "status": "captured"
+        },
+        {
           "label": "Fan identity · Web",
           "kind": "web",
           "image": "/images/williams-id.webp",
           "status": "captured"
-        },
-        {
-          "label": "Fan identity · App",
-          "kind": "app",
-          "image": "pending",
-          "status": "pending"
-        },
-        {
-          "label": "Race day · App",
-          "kind": "app",
-          "image": "pending",
-          "status": "pending"
         }
       ],
-      "mediaNote": "Williams ID: fan identity, customization, and loyalty."
+      "mediaNote": "Williams ID, live race feed, and race results. Mobile web captures supplied by Alex."
     },
     {
       "id": "healthline",

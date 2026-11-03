@@ -52,3 +52,6 @@ Trash Panda app images were supplied by Alex. Only personal Dynamic Island activ
 
 Additional platform entry supplied by Alex: Alex Albon (specific scope not detailed). Healthline visuals now show the interior Nutrition article grid and expanded Wellness topic navigation, captured directly from the live site. Deloitte examples are high-level summaries of the supplied resume.
 
+
+Williams mobile views now use Alex-supplied responsive web screenshots, ordered fan identity, live feed, and race results before desktop web. Only outer gray capture margins were removed; interface content was retained.
+
