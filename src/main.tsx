@@ -7,4 +7,5 @@ import './styles/product-media.css';
 import './styles/identity-hero.css';
 import './styles/work-navigation.css';
 import './styles/forest-theme.css';
+import './styles/enterprise.css';
 createRoot(document.getElementById('root')!).render(<React.StrictMode><App /></React.StrictMode>);

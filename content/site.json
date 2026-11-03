@@ -69,7 +69,7 @@
     "placeholderNote": "App capture to be added.",
     "scrollHint": "Scroll to change projects",
     "nextLabel": "Up next",
-    "exitHint": "Keep scrolling to see how I work ↓",
+    "exitHint": "Keep scrolling for my work at Deloitte ↓",
     "skipLabel": "Skip projects"
   },
   "projects": [
@@ -121,8 +121,8 @@
       "title": "Healthline",
       "category": "CONSUMER WEB / EDITORIAL AT SCALE",
       "summary": "A high-traffic consumer publishing platform that makes health information accessible to a broad audience.",
-      "image": "/images/healthline-article.webp",
-      "imageAlt": "Current Healthline article interface, captured directly from an interior article page",
+      "image": "/images/healthline-content-grid.webp",
+      "imageAlt": "Healthline interior nutrition content grid, captured directly from the live website",
       "color": "#6b9693",
       "tags": [
         "Frontend engineering",
@@ -133,23 +133,23 @@
       "approach": "My work included feature delivery on Healthline.com as part of the Slytrunk team. It brought my engineering experience into a consumer platform with substantial existing scale and complexity.",
       "outcome": "Experience working within a high-traffic product, alongside the smaller teams and early-stage products that also shape my approach.",
       "source": "https://www.healthline.com/",
-      "previewImage": "/images/healthline-article.webp",
-      "liveUrl": "https://www.healthline.com/health-news/walking-speed-daily-steps-may-predict-death-risk",
+      "previewImage": "/images/healthline-content-grid.webp",
+      "liveUrl": "https://www.healthline.com/nutrition",
       "media": [
         {
-          "label": "Article experience",
+          "label": "Content discovery",
           "kind": "web",
-          "image": "/images/healthline-article.webp",
+          "image": "/images/healthline-content-grid.webp",
           "status": "captured"
         },
         {
-          "label": "Reading experience",
+          "label": "Topic navigation",
           "kind": "web",
-          "image": "/images/healthline-reading.webp",
+          "image": "/images/healthline-topic-navigation.webp",
           "status": "captured"
         }
       ],
-      "mediaNote": "Current article layout and reading experience."
+      "mediaNote": "Editorial discovery and topic navigation within Healthline Nutrition."
     },
     {
       "id": "trash-panda",
@@ -287,5 +287,38 @@
     "workBackground": "#d0d5bb",
     "contactBackground": "#b3bf95",
     "bronze": "#ad906a"
+  },
+  "platform": {
+    "title": "One platform. Multiple teams.",
+    "body": "At Slytrunk, I led the engineering of the shared fan platform behind these experiences: common web, mobile, CMS, and backend foundations with a distinct experience for each tenant.",
+    "tenants": [
+      "Williams F1 Team",
+      "Major League Show Jumping",
+      "US SailGP Team",
+      "Alex Albon"
+    ]
+  },
+  "enterprise": {
+    "eyebrow": "Deloitte / 2017–2021",
+    "title": "Complex enterprise work.\nClear, usable tools.",
+    "intro": "As a consultant and senior consultant, I led engineering work across decision tools, dashboards, and application architecture. Explaining the technology to nontechnical stakeholders was central to delivering it.",
+    "note": "Selected work, described at a high level.",
+    "projects": [
+      {
+        "title": "Workforce optimization",
+        "description": "Led development of a serverless workforce planning tool, connecting a React interface to distributed, event-driven services.",
+        "focus": "React · Python · AWS Lambda · DynamoDB"
+      },
+      {
+        "title": "Fraud detection dashboards",
+        "description": "Led frontend delivery for interfaces that turned email, IP, and image fraud detection API responses into meaningful dashboard outputs.",
+        "focus": "Frontend engineering · API integration · Data presentation"
+      },
+      {
+        "title": "Audit planning tools",
+        "description": "Led frontend and database development, plus application architecture, for five internal tools supporting large-scale audit execution planning.",
+        "focus": "Application architecture · Internal tools · Technical leadership"
+      }
+    ]
   }
 }

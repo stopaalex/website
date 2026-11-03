@@ -49,3 +49,6 @@ Project navigation uses measured sticky-panel height and requestAnimationFrame-b
 
 Trash Panda app images were supplied by Alex. Only personal Dynamic Island activity icons were redacted; the app UI is unchanged. Cleaned originals are available separately as PNGs, and site copies are lossless WebP. Views: Discover, Ingredients, Shopping lists.
 
+
+Additional platform entry supplied by Alex: Alex Albon (specific scope not detailed). Healthline visuals now show the interior Nutrition article grid and expanded Wellness topic navigation, captured directly from the live site. Deloitte examples are high-level summaries of the supplied resume.
+
